@@ -1,5 +1,5 @@
 # Eazy_Park
-Fast &amp; Efficient parking for users using Object Detection (Masked R-CNN)
+Fast &amp; Efficient parking for users using Object Detection (Mask R-CNN)
 
 The dataset used in this model is COCO Model (Common Objects in Context). COCO model helps in recognising 80 different types of objects.
 
